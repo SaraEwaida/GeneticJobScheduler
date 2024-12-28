@@ -48,11 +48,6 @@ You can provide these inputs through the command line or a user interface.
 - This repository contains the source code necessary for the project along with detailed documentation on the implementation of the genetic algorithm, including chromosome representation, crossover, mutation, and the objective function used.
 - A comprehensive report is available detailing the problem formulation and test cases, fulfilling the project's documentation requirement.
 
-## Future Enhancements
-- Integrate more complex job dependencies.
-- Improve the genetic algorithm's efficiency with advanced genetic operations.
-- Explore the addition of real-time adjustments to scheduling based on dynamic job priorities or machine availability.
-
 ## Example Output
 
 The output of the GeneticJobScheduler is presented in two formats to provide a clear and comprehensive view of the optimized job scheduling:
