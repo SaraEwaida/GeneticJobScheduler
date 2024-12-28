@@ -63,5 +63,7 @@ The output of the GeneticJobScheduler is presented in two formats to provide a c
 
 - Integrate more complex job dependencies.
 - Improve the genetic algorithm's efficiency with advanced genetic operations.
+- Explore the addition of real-time adjustments to scheduling based on dynamic job priorities or machine availability.
+
 
 
