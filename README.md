@@ -19,7 +19,7 @@ To run the GeneticJobScheduler, follow these steps:
 Clone the Repository
 bash
 Copy code
-git clone https://github.com/yourusername/GeneticJobScheduler.git
+git clone https://github.com/SaraEwaida/GeneticJobScheduler.git
 Install Required Libraries
 Copy code
 pip install matplotlib plotly
