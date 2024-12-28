@@ -20,26 +20,26 @@ To run the GeneticJobScheduler, follow these steps:
    ```bash
    git clone https://github.com/SaraEwaida/GeneticJobScheduler.git
 
-Install Required Libraries
-Copy code
-pip install matplotlib plotly
-Run the Application Navigate to the cloned directory and run:
-css
-Copy code
-python main.py
+2. Install Required Libraries
+3. Copy code
+4. pip install matplotlib plotly
+5. Run the Application Navigate to the cloned directory and run:
+- css
+- Copy code
+- python main.py
 
-**How It Works**
-Data Input: The user can input the number of jobs, the number of machines, and specific job requirements.
-Algorithm Execution: The genetic algorithm processes the input to determine the optimal scheduling.
+##How It Works
+- Data Input: The user can input the number of jobs, the number of machines, and specific job requirements.
+- Algorithm Execution: The genetic algorithm processes the input to determine the optimal scheduling.
 Output Display: The results are displayed both textually and visually via a Gantt chart.
 
-**Example Output**
-The output of the GeneticJobScheduler is presented in two formats to provide a clear and comprehensive view of the optimized job scheduling:
-Textual Output: Displays detailed scheduling information including start and end times for each job on respective machines.
-Gantt Chart: Offers a visual representation of the scheduling across machines, illustrating the timing and duration of each job operation. 
+##Example Output
+###The output of the GeneticJobScheduler is presented in two formats to provide a clear and comprehensive view of the optimized job scheduling:
+- Textual Output: Displays detailed scheduling information including start and end times for each job on respective machines.
+- Gantt Chart: Offers a visual representation of the scheduling across machines, illustrating the timing and duration of each job operation. 
 This visualization helps in quickly understanding the distribution and overlap of job schedules, facilitating easier analysis of the scheduling efficiency.
 
-**Future Enhancements**
-Integrate more complex job dependencies.
-Improve the genetic algorithm's efficiency with advanced genetic operations.
+##Future Enhancements
+- Integrate more complex job dependencies.
+- Improve the genetic algorithm's efficiency with advanced genetic operations.
 
