@@ -1,25 +1,25 @@
 # GeneticJobScheduler
 Optimizing Job Shop Scheduling in a Manufacturing Plant Using a Genetic Algorithm
 
-**Project Overview**
+## Project Overview
 The GeneticJobScheduler is a system designed to optimize job shop scheduling in a manufacturing plant using a genetic algorithm. The system is capable of efficiently scheduling multiple jobs across various machines with the goal of minimizing the overall production time and enhancing machine utilization.
 
-**Features**
-Data Structures: The project defines structured data representations for jobs and machines.
-Genetic Algorithm: Implements a genetic algorithm to optimize scheduling, including components such as initialization, fitness evaluation, selection, crossover, mutation, and replacement.
-Visualization: Incorporates visual tools to display the scheduling results, including a Gantt chart that offers a clear visual representation of the jobs scheduled over time.
+## Features
+- **Data Structures**: The project defines structured data representations for jobs and machines.
+- **Genetic Algorithm**: Implements a genetic algorithm to optimize scheduling, including components such as initialization, fitness evaluation, selection, crossover, mutation, and replacement.
+- **Visualization**: Incorporates visual tools to display the scheduling results, including a Gantt chart that offers a clear visual representation of the jobs scheduled over time.
 
-**Technologies Used**
-Python
-Matplotlib and Plotly for visualization
-Tkinter for the user interface
+## Technologies Used
+- Python
+- Matplotlib and Plotly for visualization
+- Tkinter for the user interface
 
-**Getting Started**
+## Getting Started
 To run the GeneticJobScheduler, follow these steps:
-Clone the Repository
-bash
-Copy code
-git clone https://github.com/SaraEwaida/GeneticJobScheduler.git
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/SaraEwaida/GeneticJobScheduler.git
+
 Install Required Libraries
 Copy code
 pip install matplotlib plotly
